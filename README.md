@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alaa Saleh</h1>
+<h1 align="center">Hi , I'm Alaa Saleh </h1>
 <h3 align="center">Skilled Artificial Intelligence Engineer with +1 years of experience in designing and developing ML & DL models, processes an experience in collecting & analysing data, adaptive with technology and computer science and have a mathematics background which empower the ability to design models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaelawady&label=Profile%20views&color=0e75b6&style=flat" alt="alaaelawady" /> </p>
